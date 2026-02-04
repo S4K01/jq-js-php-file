@@ -1,0 +1,11 @@
+# Use the official PHP image with Apache
+FROM php:8.2-apache
+
+# Copy your files into the web server directory
+COPY . /var/www/html/
+
+# Update permissions (optional but recommended)
+RUN chown -R www-data:www-data /var/www/html
+
+# Open port 80 (Standard web port)
+EXPOSE 80
