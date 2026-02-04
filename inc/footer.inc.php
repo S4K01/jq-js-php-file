@@ -1,0 +1,14 @@
+    </main>
+
+    <footer>
+        <p>Culinary Cove's website.</p>
+    </footer>
+    </div>
+    <script
+        src="https://code.jquery.com/jquery-4.0.0.min.js"
+        integrity="sha256-OaVG6prZf4v69dPg6PhVattBXkcOWQB62pdZ3ORyrao="
+        crossorigin="anonymous"></script>
+    <script src="js/index.js"></script>
+    </body>
+
+    </html>
